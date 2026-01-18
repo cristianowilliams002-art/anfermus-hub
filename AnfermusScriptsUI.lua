@@ -7,7 +7,7 @@ gui.Parent = player:WaitForChild("PlayerGui")
 
 -- Main background
 local main = Instance.new("Frame")
-main.Size = UDim2.new(0.35, 0, 1, 0)
+main.Size = UDim2.new(0.4, 0, 1, 0)
 main.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
 main.Parent = gui
 
